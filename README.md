@@ -55,7 +55,7 @@ python tapclock.py
 
 ## 📷 Preview
 
-![Uploading image.png…]()
+![TapClock Screenshot](https://github.com/Aryan-git-byte/TapClock/blob/main/Screenshot.png?raw=true)
 
 
 ---
