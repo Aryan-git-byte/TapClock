@@ -55,7 +55,8 @@ python tapclock.py
 
 ## 📷 Preview
 
-*Add screenshots here later — e.g. app in clock mode & stopwatch mode*
+![Uploading image.png…]()
+
 
 ---
 
